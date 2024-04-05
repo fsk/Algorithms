@@ -1,0 +1,44 @@
+{
+  "Is Prime => isPrime1 == 873595125NS" : {
+    "question" : "Is Prime",
+    "input" : 999999999,
+    "executionTime" : 873595125,
+    "methodName" : "isPrime1"
+  },
+  "Is Prime => isPrime1 == 872380916NS" : {
+    "question" : "Is Prime",
+    "input" : 999999999,
+    "executionTime" : 872380916,
+    "methodName" : "isPrime1"
+  },
+  "Is Prime => isPrime2 == 2000NS" : {
+    "question" : "Is Prime",
+    "input" : 999999999,
+    "executionTime" : 2000,
+    "methodName" : "isPrime2"
+  },
+  "Check Perfect Number => isPerfectNumber1 == 28721166NS" : {
+    "question" : "Check Perfect Number",
+    "input" : 33550336,
+    "executionTime" : 28721166,
+    "methodName" : "isPerfectNumber1"
+  },
+  "Check Perfect Number => isPerfectNumber1 == 30338958NS" : {
+    "question" : "Check Perfect Number",
+    "input" : 33550336,
+    "executionTime" : 30338958,
+    "methodName" : "isPerfectNumber1"
+  },
+  "Check Perfect Number => isPerfectNumber1 == 24394250NS" : {
+    "question" : "Check Perfect Number",
+    "input" : 33550336,
+    "executionTime" : 24394250,
+    "methodName" : "isPerfectNumber1"
+  },
+  "Check Perfect Number => isPerfectNumber1 == 12732250NS" : {
+    "question" : "Check Perfect Number",
+    "input" : 33550336,
+    "executionTime" : 12732250,
+    "methodName" : "isPerfectNumber1"
+  }
+}
