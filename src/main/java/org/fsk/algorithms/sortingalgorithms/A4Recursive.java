@@ -1,4 +1,4 @@
-package org.fsk.algorithms;
+package org.fsk.algorithms.sortingalgorithms;
 
 /**
  * 1- Durma sarti

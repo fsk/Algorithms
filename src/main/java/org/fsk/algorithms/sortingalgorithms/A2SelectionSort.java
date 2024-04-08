@@ -1,4 +1,4 @@
-package org.fsk.algorithms;
+package org.fsk.algorithms.sortingalgorithms;
 
 public class A2SelectionSort {
 
