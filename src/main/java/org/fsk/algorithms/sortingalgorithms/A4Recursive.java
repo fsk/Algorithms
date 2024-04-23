@@ -9,7 +9,7 @@ public class A4Recursive {
     public static void main(String[] args) {
         System.out.println(factorial(6));
         System.out.println(fib(7));
-        System.out.println(pow(6,3));
+        System.out.println(pow(5,-2));
     }
 
     public static int factorial(int n) {
